@@ -1,6 +1,3 @@
-# rutkonahus.github.io
-[prosjektstyring-laering_hva er et prosjekt.html](https://github.com/user-attachments/files/28271021/prosjektstyring-laering_hva.er.et.prosjekt.html)
-<!DOCTYPE html>
 <html lang="no">
 <head>
 <meta charset="UTF-8">
